@@ -87,3 +87,18 @@ iframe{
     margin-left: 35%;
     background-color: white;
 }
+.footer{
+    margin-bottom: 0;
+    margin-top: 700px;
+    background-color: black;
+}
+.social{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(15, 15, 15);
+}
+.social ul li{
+    display: inline;
+    font-size: 30px;
+    padding-left: 20px;
+}
