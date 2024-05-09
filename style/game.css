@@ -15,9 +15,9 @@ header{
 }
 span{
     margin-left: 3px;
-    margin-top: 20px;
+    margin-bottom: 40px;
     font-size: 25px;
-    color: white;
+    color: gold;
 }
 .nav{
     float: right;
@@ -27,17 +27,17 @@ span{
 
 .nav ul li{
     display: inline;
-    margin-right: 60px;
+    margin-right: 40px;
     
 }
 .nav ul li a{
    font-size: 20px;
-    color: white;
+    color: gray;
     text-decoration: none; 
 }
 .nav ul li a:hover{
     color: whitesmoke;
-    background-color: gray;
+    text-decoration: underline yellow;
 }
 .container{
     margin-top: 30px;
