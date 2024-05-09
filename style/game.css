@@ -102,3 +102,7 @@ iframe{
     font-size: 30px;
     padding-left: 20px;
 }
+.social ul li a button{
+    background-color: gray;
+    border: none;
+}
