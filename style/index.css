@@ -67,6 +67,8 @@ frohover,p, h3 {
     transition: all .3s;
    transform: translateY(10px);
     box-shadow: 2px 2px 2px 2px  #e8e4e4;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .name{
     color: black;
